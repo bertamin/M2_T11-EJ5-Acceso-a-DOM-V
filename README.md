@@ -1,0 +1,1 @@
+En esta práctica vamos a usar lo que tenemos ya de la anterior para hacer que se pueda insertar contenido que nosotros introduzcamos por teclado.
